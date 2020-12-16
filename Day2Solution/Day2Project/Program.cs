@@ -32,6 +32,8 @@ namespace Day2Project
                 if (flag == 1)
                     Console.WriteLine(i);
             }
+
+            Console.WriteLine("Shrishti Soni");
             Console.ReadKey();
         }
     }
