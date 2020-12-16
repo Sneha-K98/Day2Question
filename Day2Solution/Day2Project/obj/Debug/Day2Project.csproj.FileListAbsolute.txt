@@ -1,0 +1,7 @@
+D:\Day2GitQuestion\Day2Solution\Day2Project\bin\Debug\Day2Project.exe.config
+D:\Day2GitQuestion\Day2Solution\Day2Project\bin\Debug\Day2Project.exe
+D:\Day2GitQuestion\Day2Solution\Day2Project\bin\Debug\Day2Project.pdb
+D:\Day2GitQuestion\Day2Solution\Day2Project\obj\Debug\Day2Project.csprojAssemblyReference.cache
+D:\Day2GitQuestion\Day2Solution\Day2Project\obj\Debug\Day2Project.csproj.CoreCompileInputs.cache
+D:\Day2GitQuestion\Day2Solution\Day2Project\obj\Debug\Day2Project.exe
+D:\Day2GitQuestion\Day2Solution\Day2Project\obj\Debug\Day2Project.pdb
