@@ -5,3 +5,7 @@ output	     : 2,3,5,7
 sample input : 2 15
 output	     : 2,3,5,7,11,13
 
+
+sample input : 5 15
+output	     : 5,7,11,13
+
